@@ -1,0 +1,9 @@
+export const PASSWORD="password"
+export const PASSWORD_REQUIRED_NUMBER = "Password requires a number";
+export const PASSWORD_REQUIRED_LOWER_CASE="Password requires a lowercase letter";
+export const PASSWORD_REQUIRED_UPPER_CASE="Password requires a uppercase letter";
+export const PASSWORD_REQUIRED_SYMBOL="Password requires a symbol";
+export const PASSWORD_REQUIRED="password is required";
+export const CONFIRM_PASSWORD_REQUIRED="confirm password is required";
+export const PASSWORD_MUST_MATCH="password must match";
+export const PROFILE_REQUIRED="Profile is required"
