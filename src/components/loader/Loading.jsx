@@ -7,10 +7,7 @@ const Loading = () => {
       <div className="loader-container">
         <div className="loader">
           <ThreeDots
-            height="80"
-            width="80"
-            radius="9"
-            color="#4fa94d"
+            color="#202124"
             ariaLabel="three-dots-loading"
             wrapperStyle={{}}
             wrapperClassName=""
